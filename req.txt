@@ -1,0 +1,6 @@
+# pip requirements file for netmonitor
+#
+# pip install -r req.txt
+
+prometheus_client
+PyYAML
